@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="finish_btn">
+    <file>finish.PNG</file>
+  </qresource>
+</RCC>
