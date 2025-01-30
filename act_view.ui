@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>act_view</class>
+ <widget class="QDialog" name="act_view">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>967</width>
+    <height>741</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>실행 화면</string>
+  </property>
+  <property name="modal">
+   <bool>true</bool>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="3" column="1">
+    <widget class="QTableView" name="frequencygraph"/>
+   </item>
+   <item row="2" column="1">
+    <widget class="QTableView" name="timegraph"/>
+   </item>
+   <item row="5" column="1">
+    <widget class="QTimeEdit" name="timeEdit"/>
+   </item>
+   <item row="5" column="0">
+    <widget class="QDateEdit" name="dateEdit"/>
+   </item>
+   <item row="4" column="1">
+    <widget class="QSlider" name="horizontalSlider">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

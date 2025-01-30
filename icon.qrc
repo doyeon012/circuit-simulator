@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="sourse">
+    <file>ac sourse_rgb.png</file>
+    <file>dc_source_rbg.png</file>
+  </qresource>
+  <qresource prefix="windo_icon">
+    <file>6.jpg</file>
+  </qresource>
+</RCC>
