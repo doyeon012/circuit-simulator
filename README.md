@@ -1,6 +1,6 @@
 ---
 
-# ⚙️ PyQt5 기반 회로 시뮬레이션 프로그램 (Interactive Circuit Simulator)
+# ⚙️ PyQt5 기반 회로 시뮬레이션 프로그램 (Circuit Simulator)
 
 ## 📌 프로젝트 소개
 
